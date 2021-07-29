@@ -1,0 +1,122 @@
+@media only screen and (min-width: 200px) and (max-width: 480px){
+    .social-area{
+        float: none;
+        margin: 0;
+        padding: 0;
+        margin-right: 4%;
+        width: 100%;
+        text-align: center;
+    }
+    .social-area ul li a{
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        margin: 0;
+        display: block;
+    }
+    .main-header-search input {
+        background: #65717c;
+        border: 0px;
+        margin: 0;
+        white-space: pre;
+        border-radius: 5px;
+        padding: 2px 10px;
+        font-size: 14px;
+        height: 33px;
+        width: 215px;
+        color: white;
+        text-align: center;
+        max-width: 100%;
+    }
+    .social-area ul{
+        width: 100%;
+        margin: 0;
+    }
+    .social-area li{
+        margin: 0;
+    }
+    .mini-link-menu{
+        text-align: center;
+        float: none;
+        width: 100%;
+    }
+    .mini-link-menu a{
+        text-align: center;
+    }
+    .main-header-text{
+        width: 100%;
+        margin: 0;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .main-header-search{
+        margin: 0%;
+        margin-top: 30px;
+        width: 100%;
+        text-align: center;
+    }
+    .main-header-search input[type="text"]{
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    .said-text p{
+        font-size: 18px;
+    }
+    .said-text{
+        width: 100%;
+        text-align: center;
+    }
+    .second-card-area{
+        text-align: center;
+    }
+    .second-card-body{
+        text-align: center;
+    }
+    .second-card-body img{
+        text-align: center;
+    }
+    .second-card-body p{
+        text-align: center;
+        width: 100%;
+    }
+    .second-card-text{
+        text-align: center;
+        width: 100%;
+    }
+    footer h2{
+        text-align: center;
+    }
+    footer input[type="text"], input[type="email"]{
+        max-width: 100%;
+    }
+    .form-area input[type="submit"]{
+        text-align: center;
+        width: 100%;
+    }
+    .form-area h3{
+        text-align: center;
+    }
+    .copy-right-area{
+        text-align: center;
+        width: 100%;
+    }
+    .copy-right-area p{
+        text-align: center;
+    }
+    .left-copyright{
+        width: 100%;
+        text-align: center;
+    }
+    .left-copyright p{
+        text-align: center;
+    }
+    .right-copyright p{
+        text-align: center;
+        width: 100%;
+    }
+    .right-copyright{
+        text-align: center;
+        width: 100%;
+    }
+
+}
